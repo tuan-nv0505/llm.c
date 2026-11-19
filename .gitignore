@@ -46,6 +46,9 @@ dkms.conf
 *.opensdf
 *.filters
 .clangd
+models/*.fenrir
+models/tokenizer.json
+models/tokenizer.bin
 
 .DS_Store
 Thumbs.db
